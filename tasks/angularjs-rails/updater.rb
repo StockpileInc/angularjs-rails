@@ -33,7 +33,7 @@ module AngularJS::Rails
     end
 
     def latest_version
-      available_versions.last
+      "1.5.11"
     end
 
     def version_constant_name
