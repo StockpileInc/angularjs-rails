@@ -96,5 +96,3 @@ module AngularJS::Rails
     end
   end
 end
-
-
